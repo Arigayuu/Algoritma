@@ -9,10 +9,10 @@
 - Average case: O(n log n), berlaku pada kebanyakan kasus jika pivot yang dipilih cukup baik.
 
 # Analisis Quiz2
-## Bubble Sort
+=> Bubble Sort
 - Best Case: Ketika array sudah terurut (kompleksitas O(n)).
 - Langkah-langkah: Bubble Sort hanya memeriksa elemen tanpa melakukan swap.
 - Kelemahan: Tidak efisien untuk array besar.
-## Merge Sort
+=> Merge Sort
 - Best Case: Kompleksitas tetap O(n log n), karena pembagian dan penggabungan tetap dilakukan terlepas dari keadaan array.
 - Kelebihan: Lebih cepat untuk array besar dibandingkan Bubble Sort.
